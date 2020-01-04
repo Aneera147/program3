@@ -12,8 +12,6 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: Maven@3
- 
 - task: CmdLine@2
  
   inputs:
